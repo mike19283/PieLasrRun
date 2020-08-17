@@ -18,4 +18,4 @@ modCommands - !addLast adds a clip you specify along with the associated keyword
 This program saves more than just clips. this can be used to save text and other links, too! Think of this as a bookmarks bar, but for chat. This only works for Pokemon currently, but I intend to make a custom bookmark feature that works for all games. Mod your bot to prevent potential eaten messages.
 
 NOTE
-Currently, you must run as administrator to get this to run. 
+Currently, you must run as administrator to get this to run, only the first time though. 
