@@ -16,3 +16,6 @@ I am in no way responsible for any damages caused. It is up to you in being resp
 modCommands - !addLast adds a clip you specify along with the associated keyword. Format is !addLast ClipURL, Name. To remove from database, type !removeLast Name. To remove from Last but keep the clip in the database, just type '!removeLast.'
 
 This program saves more than just clips. this can be used to save text and other links, too! Think of this as a bookmarks bar, but for chat. This only works for Pokemon currently, but I intend to make a custom bookmark feature that works for all games. Mod your bot to prevent potential eaten messages.
+
+NOTE
+Currently, you must run as administrator to get this to run. 
