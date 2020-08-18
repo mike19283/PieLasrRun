@@ -2,7 +2,7 @@ LAST RUN HISTORY FOR IATEYOURPIE
 
 This is a program that creates a twitch chat bot for you. This app is designed to take a user command from Twitch chat and spit out the desired clip. This works relatively simply. 
 
-The setup wizard adds a "Bookmark bot" to your start menu. On first boot, yyou must right click that, go to more, then click "Run As Administrator." Every time after the program can be opened nornally.
+The setup wizard adds a "Bookmark bot" to your start menu. On first boot, you must right click that, go to more, then click "Run As Administrator." Every time after the program can be opened nornally.
 
 On boot, you see a small window show up. Click file in the upper left-hand corner, then click connect. You are presented with a connect dialog menu. I CANNOT STRESS THIS ENOUGH. YOU NEED AN ALT TO USE AS YOUR BOT. This program doesn't let you connect if the bot is the same name as your channel. 'OAuth token' is just a fancy way of saying a password. In order to lookup your OAuth, you need to log in to Twitch on your alt, and then click on the button I provide. Copy and paste this into the program, along with filling in the other fields. Click 'Connect.'
 
